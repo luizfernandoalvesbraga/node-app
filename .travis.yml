@@ -4,7 +4,7 @@ node_js:
 deploy:
   provider: heroku
   api_key:
-    secure: a628274d-5b88-41db-bf09-8545761bf004
-  app: ancient-bastion-7932
+    secure: 8d8b31bf-ade7-46e9-a0e9-19c971785ad5
+  app: radiant-thicket-1794
   on:
-    repo: filipeguelber/node-app
+    repo: luizfernandoalvesbraga/node-app
